@@ -1,23 +1,43 @@
-## Hi there 👋
+# Tanner Press Corp
 
-Welcome to Tanner Press Corp — a technology-focused organization building practical tools, systems, and digital experiences.
+Building practical software, automation, and digital tools that help people and teams work more effectively.
 
-### What we do
-- Create software and digital solutions that solve real-world problems
-- Explore productivity, automation, and thoughtful product engineering
-- Collaborate with contributors, partners, and communities
+## What we do
 
-### Community & collaboration
-We’re open to ideas, feedback, and thoughtful collaboration. If you’re interested in learning more or contributing, start with our GitHub organization and explore the repositories available there.
+- Develop useful software and digital products
+- Explore automation, productivity, and developer tools
+- Experiment with thoughtful product design and engineering
+- Share ideas and collaborate with contributors and partners
 
-- Explore our repositories: https://github.com/tannerpresscorp
-- Open an issue or discussion in a relevant project to connect with the team
+## Our focus
 
-### Our focus
 - Product development
-- Collaboration and experimentation
-- Learning, iteration, and continuous improvement
-- Building useful, reliable tools for people and teams
+- Reliable, maintainable systems
+- Practical experimentation
+- Continuous learning and improvement
+- Tools that solve real-world problems
 
-### Get in touch
-If you’d like to connect, collaborate, or learn more, begin with the repositories and discussions on GitHub.
+## Explore our work
+
+Browse our repositories to see what we’re building:
+
+- [View all repositories](https://github.com/tannerpresscorp)
+
+As projects mature, this page will highlight selected tools, experiments, and open-source work.
+
+## Contributing and collaboration
+
+We welcome thoughtful feedback, ideas, and contributions.
+
+To get involved:
+
+1. Explore a repository that interests you.
+2. Read its documentation and contribution guidelines.
+3. Open an issue or discussion with questions, suggestions, or feedback.
+4. Submit a pull request when you’re ready to contribute.
+
+## Connect with us
+
+The best way to connect is through the issues and discussions in our GitHub repositories.
+
+- [Visit Tanner Press Corp on GitHub](https://github.com/tannerpresscorp)
